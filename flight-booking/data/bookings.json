@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "bookingReference" : "BKD706C8",
+  "passengerId" : 3,
+  "flightId" : 1,
+  "bookingDate" : "2025-10-25T16:11:24.5291329",
+  "status" : "CONFIRMED",
+  "totalAmount" : 5425.0,
+  "paymentMethod" : "CREDIT_CARD",
+  "transactionId" : "CC-DF854F01",
+  "passengerFirstName" : "Lohitaksh",
+  "passengerLastName" : "Rastogi",
+  "passengerEmail" : "rastoginoddy@gmail.com",
+  "passengerPhone" : "9891566859"
+} ]
